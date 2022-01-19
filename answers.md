@@ -35,3 +35,5 @@ Answer 11 : I am getting an error message that says " fialed to push some refs t
 Answer 12 : Yes!! It worked, my class information now shows up on my local copy of README.md
 
 Answer 13 : ".  ..  .git  .gitignore  README.md"
+
+double checking to see if I am doing this right bruh
